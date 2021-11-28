@@ -26,6 +26,6 @@ else
     print "Saat #{hour}'den #{minute} geçiyor"
   end
   if minute > 30 && minute < 60
-    print "Saat #{hour + 1}'e #{60 - minute} var"
+    print "Saat #{hour + 1}'e #{60 - minute} dakika var"
   end
 end
