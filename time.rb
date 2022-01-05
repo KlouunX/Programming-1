@@ -1,5 +1,7 @@
 # frozen_string_literal: true
 
+# Saat programi
+
 print 'Saati giriniz   : '
 hour = gets.chomp.to_i
 print 'Dakikayi giriniz: '
