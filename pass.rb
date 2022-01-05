@@ -1,5 +1,7 @@
 # frozen_string_literal: true
 
+# Dersten gecme
+
 print 'Vize sonucu giriniz: '
 vize_sonucu = gets.chomp.to_i
 
