@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-# 3n + 1 Hipotezi (Collatz Conjecture»)
+# 3n + 1 Hipotezi (Collatz Conjecture»)!
 
 print 'Bir sayı giriniz: '
 n = gets.chomp.to_i
