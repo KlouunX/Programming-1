@@ -11,7 +11,7 @@ def getnum
     puts "Gecersiz sayi girdiniz #{string}"
   end
 
- puts(number)
+  puts(number)
 end
 
 getnum
