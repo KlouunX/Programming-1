@@ -1,5 +1,7 @@
 # frozen_string_literal: true
 
+# while kullanimi
+
 a = 100
 
 while if a > 20
