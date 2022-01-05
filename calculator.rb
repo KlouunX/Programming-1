@@ -1,5 +1,7 @@
 # frozen_string_literal: true
 
+# Calc
+
 print 'Birici sayıyı giriniz: '
 num1 = gets.chomp.to_f
 print 'İkinci sayıyı giriniz: '
