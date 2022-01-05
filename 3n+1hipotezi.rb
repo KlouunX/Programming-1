@@ -8,11 +8,10 @@ n = gets.chomp.to_i
 while n > 1
   if n.even?
     n /= 2
-    puts " #{n} "
   else
     n = 3 * n + 1
-    puts " #{n} "
   end
+  puts " #{n} "
 end
 
 puts " #{n} "
