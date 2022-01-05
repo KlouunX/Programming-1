@@ -1,5 +1,7 @@
 # frozen_string_literal: true
 
+# fize final
+
 print 'Your vize result: '
 v_result = gets.chomp.to_i
 
