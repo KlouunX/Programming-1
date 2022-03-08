@@ -15,3 +15,4 @@ while n > 1
 end
 
 puts " #{n} "
+puts('Nice')
